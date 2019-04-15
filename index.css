@@ -1,3 +1,40 @@
 #posts {
     display: none;
 }
+
+#post{
+    display: none;
+}
+
+#albums {
+    display: none;
+}
+
+#album{
+    display: none;
+}
+
+#comments {
+    display: none;
+}
+
+#photos {
+    display: none;
+}
+
+#photos {
+    display: none;
+}
+
+#img{
+    display: none;
+}
+
+.album-link{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.album-link:hover{
+    color: blueviolet;
+}
